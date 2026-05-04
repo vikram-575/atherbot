@@ -1,0 +1,434 @@
+2026-04-26 00:06:20,435 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:07:22,081 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:08:24,061 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:09:25,363 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:10:26,790 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:11:28,656 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:12:30,252 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:13:32,033 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:14:33,709 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:15:35,637 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:16:37,345 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:17:39,001 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:18:41,366 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:19:43,325 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:20:45,014 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:21:46,825 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:22:48,937 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:23:50,556 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:24:52,321 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:25:53,973 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:26:55,745 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:27:57,526 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:28:59,294 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:30:01,044 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:31:02,731 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:32:04,404 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:33:06,399 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:34:09,296 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:35:11,806 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:36:14,071 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:37:16,653 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:38:18,751 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:39:20,556 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:40:22,453 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:41:23,852 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:42:25,495 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:43:27,033 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:44:28,696 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:45:30,635 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:46:07,333 | aether.main | INFO | 🔱 Aether Flow System starting in [DRY] mode
+2026-04-26 00:46:09,132 | aether.exchange | INFO | ✅ Connected to Delta Exchange | 281 markets loaded
+2026-04-26 00:46:09,740 | aether.exchange | INFO | ✅ Symbol resolved: BTC/USDT:USDT
+2026-04-26 00:46:09,742 | aether.main | INFO | 📄 DRY RUN mode – No real orders will be placed
+2026-04-26 00:46:11,302 | aether.exchange | INFO | 📊 Fetched 299 candles for BTC/USDT:USDT [15m]
+2026-04-26 00:46:11,431 | aether.exchange | INFO | ⏳ Waiting 829s for next 15m candle...
+2026-04-26 00:46:32,100 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:47:33,631 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:48:35,569 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 00:49:37,415 | aether.main | ERROR | Loop error: index 0 is out of bounds for axis 0 with size 0
+2026-04-26 01:00:00,997 | aether.main | INFO | ⛔ Bot stopped by user
+2026-04-26 01:00:34,128 | aether.main | INFO | 🔱 Aether Flow System starting in [DRY] mode
+2026-04-26 01:00:36,687 | aether.exchange | INFO | ✅ Connected to Delta Exchange | 281 markets loaded
+2026-04-26 01:00:37,261 | aether.exchange | INFO | ✅ Symbol resolved: BTC/USDT:USDT
+2026-04-26 01:00:37,264 | aether.main | INFO | DRY RUN mode - No real orders will be placed
+2026-04-26 01:00:38,720 | aether.exchange | INFO | 📊 Fetched 298 candles for BTC/USDT:USDT [15m]
+2026-04-26 01:00:39,721 | aether.main | INFO | Candle check done | Price=77274.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:00:39,724 | aether.exchange | INFO | ⏳ Waiting 860s for next 15m candle...
+2026-04-26 01:06:27,558 | aether.main | INFO | Bot stopped by user
+2026-04-26 01:06:38,828 | aether.main | INFO | 🔱 Aether Flow System starting in [DRY] mode
+2026-04-26 01:06:41,395 | aether.exchange | INFO | ✅ Connected to Delta Exchange | 281 markets loaded
+2026-04-26 01:06:41,878 | aether.exchange | INFO | ✅ Symbol resolved: BTC/USDT:USDT
+2026-04-26 01:06:41,879 | aether.main | INFO | DRY RUN mode - No real orders will be placed
+2026-04-26 01:06:43,470 | aether.exchange | INFO | 📊 Fetched 299 candles for BTC/USDT:USDT [15m]
+2026-04-26 01:06:44,610 | aether.main | INFO | Candle check done | Price=77227.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:06:44,611 | aether.exchange | INFO | ⏳ Waiting 495s for next 15m candle...
+2026-04-26 01:07:25,495 | aether.main | INFO | Bot stopped by user
+2026-04-26 01:07:37,847 | aether.main | INFO | 🔱 Aether Flow System starting in [DRY] mode
+2026-04-26 01:07:40,128 | aether.exchange | INFO | ✅ Connected to Delta Exchange | 281 markets loaded
+2026-04-26 01:07:40,478 | aether.exchange | INFO | ✅ Symbol resolved: BTC/USDT:USDT
+2026-04-26 01:07:40,481 | aether.main | INFO | DRY RUN mode - No real orders will be placed
+2026-04-26 01:07:42,763 | aether.exchange | INFO | 📊 Fetched 287 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:07:44,776 | aether.main | INFO | Candle check done | Price=77200.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:07:44,779 | aether.exchange | INFO | ⏳ Waiting 15s for next 1m candle...
+2026-04-26 01:08:02,742 | aether.exchange | INFO | 📊 Fetched 287 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:08:03,930 | aether.main | INFO | Candle check done | Price=77200.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:08:03,931 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 01:09:02,319 | aether.exchange | INFO | 📊 Fetched 287 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:09:03,626 | aether.main | INFO | Candle check done | Price=77200.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:09:03,630 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 01:10:02,308 | aether.exchange | INFO | 📊 Fetched 287 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:10:03,737 | aether.main | INFO | Candle check done | Price=77200.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:10:03,739 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 01:11:02,404 | aether.exchange | INFO | 📊 Fetched 287 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:11:04,294 | aether.main | INFO | Candle check done | Price=77200.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:11:04,295 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 01:11:11,235 | aether.main | INFO | Bot stopped by user
+2026-04-26 01:11:21,301 | aether.main | INFO | 🔱 Aether Flow System starting in [DRY] mode
+2026-04-26 01:11:23,483 | aether.exchange | INFO | ✅ Connected to Delta Exchange | 281 markets loaded
+2026-04-26 01:11:23,773 | aether.exchange | INFO | ✅ Symbol resolved: BTC/USDT:USDT
+2026-04-26 01:11:23,775 | aether.main | INFO | DRY RUN mode - No real orders will be placed
+2026-04-26 01:11:25,384 | aether.exchange | INFO | 📊 Fetched 299 candles for BTC/USDT:USDT [1h]
+2026-04-26 01:11:26,679 | aether.main | INFO | Candle check done | Price=77296.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:11:26,681 | aether.exchange | INFO | ⏳ Waiting 1113s for next 1h candle...
+2026-04-26 01:12:49,664 | aether.main | INFO | Bot stopped by user
+2026-04-26 01:13:14,793 | aether.main | INFO | 🔱 Aether Flow System starting in [DRY] mode
+2026-04-26 01:13:19,181 | aether.exchange | INFO | ✅ Connected to Delta Exchange | 281 markets loaded
+2026-04-26 01:13:19,727 | aether.exchange | INFO | ✅ Symbol resolved: BTC/USDT:USDT
+2026-04-26 01:13:19,729 | aether.main | INFO | DRY RUN mode - No real orders will be placed
+2026-04-26 01:13:21,802 | aether.exchange | INFO | 📊 Fetched 295 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:13:23,795 | aether.main | INFO | Candle check done | Price=77185.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:13:23,798 | aether.exchange | INFO | ⏳ Waiting 36s for next 1m candle...
+2026-04-26 01:14:02,254 | aether.exchange | INFO | 📊 Fetched 295 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:14:03,353 | aether.main | INFO | Candle check done | Price=77185.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:14:03,354 | aether.exchange | INFO | ⏳ Waiting 57s for next 1m candle...
+2026-04-26 01:15:03,529 | aether.exchange | INFO | 📊 Fetched 295 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:15:06,124 | aether.main | INFO | Candle check done | Price=77185.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:15:06,125 | aether.exchange | INFO | ⏳ Waiting 54s for next 1m candle...
+2026-04-26 01:16:02,458 | aether.exchange | INFO | 📊 Fetched 287 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:16:03,756 | aether.main | INFO | Candle check done | Price=77185.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:16:03,758 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 01:21:56,440 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777146716&start=1777128716&symbol=BTCUSDT
+2026-04-26 01:21:56,518 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777146716&start=1777128716&symbol=BTCUSDT
+2026-04-26 01:22:32,278 | aether.main | INFO | 🔱 Aether Flow System starting in [DRY] mode
+2026-04-26 01:22:35,180 | aether.exchange | INFO | ✅ Connected to Delta Exchange | 281 markets loaded
+2026-04-26 01:22:35,734 | aether.exchange | INFO | ✅ Symbol resolved: BTC/USDT:USDT
+2026-04-26 01:22:35,735 | aether.main | INFO | DRY RUN mode - No real orders will be placed
+2026-04-26 01:22:37,116 | aether.exchange | INFO | 📊 Fetched 292 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:22:38,311 | aether.main | INFO | Candle check done | Price=77197.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:22:38,312 | aether.exchange | INFO | ⏳ Waiting 22s for next 1m candle...
+2026-04-26 01:23:02,676 | aether.exchange | INFO | 📊 Fetched 298 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:23:04,218 | aether.main | INFO | Candle check done | Price=77159.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:23:04,219 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 01:24:02,737 | aether.exchange | INFO | 📊 Fetched 293 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:24:04,087 | aether.main | INFO | Candle check done | Price=77224.50 | UT_buy=True | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:24:04,089 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 01:25:04,946 | aether.exchange | INFO | 📊 Fetched 294 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:25:09,354 | aether.main | INFO | Candle check done | Price=77230.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:25:09,356 | aether.exchange | INFO | ⏳ Waiting 51s for next 1m candle...
+2026-04-26 01:26:02,514 | aether.exchange | INFO | 📊 Fetched 294 candles for BTC/USDT:USDT [1m]
+2026-04-26 01:26:03,731 | aether.main | INFO | Candle check done | Price=77230.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 01:26:03,732 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 01:26:49,869 | aether.main | INFO | Bot stopped by user
+2026-04-26 08:50:01,007 | aether.main | INFO | 🔱 Aether Flow System starting in [DRY] mode
+2026-04-26 08:50:04,090 | aether.exchange | INFO | ✅ Connected to Delta Exchange | 281 markets loaded
+2026-04-26 08:50:06,193 | aether.exchange | WARNING | ⚠️  Could not auto-resolve BTC symbol. Available: ['BTC/USDT:USDT-260501-84000-C', 'BTC/USDT:USDT-260501-69000-P', 'BTC/USDT:USDT-260501-68000-C', 'BTC/USDT:USDT-260508-77000-P', 'BTC/USDT:USDT-260428-76400-C', 'BTC/USDT:USDT-260501-79500-P', 'BTC/USDT:USDT-260501-73000-C', 'BTC/USDT:USDT-260427-77000-P', 'BTC/USDT:USDT-260501-71000-P', 'BTC/USDT:USDT-260428-76500-C']
+2026-04-26 08:50:06,195 | aether.main | INFO | DRY RUN mode - No real orders will be placed
+2026-04-26 08:50:08,639 | aether.exchange | INFO | 📊 Fetched 146 candles for BTC/USDT:USDT [1m]
+2026-04-26 08:50:09,895 | aether.main | INFO | Candle check done | Price=77494.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-26 08:50:09,896 | aether.exchange | INFO | ⏳ Waiting 50s for next 1m candle...
+2026-04-26 08:51:02,340 | aether.exchange | INFO | 📊 Fetched 146 candles for BTC/USDT:USDT [1m]
+2026-04-26 08:51:03,766 | aether.main | INFO | Candle check done | Price=77494.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-26 08:51:03,769 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 08:52:02,621 | aether.exchange | INFO | 📊 Fetched 146 candles for BTC/USDT:USDT [1m]
+2026-04-26 08:52:03,865 | aether.main | INFO | Candle check done | Price=77494.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-26 08:52:03,868 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 08:53:02,833 | aether.exchange | INFO | 📊 Fetched 146 candles for BTC/USDT:USDT [1m]
+2026-04-26 08:53:04,518 | aether.main | INFO | Candle check done | Price=77494.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-26 08:53:04,520 | aether.exchange | INFO | ⏳ Waiting 55s for next 1m candle...
+2026-04-26 08:56:11,098 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777173971&start=1777155971&symbol=BTCUSDT
+2026-04-26 08:56:11,149 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777173971&start=1777155971&symbol=BTCUSDT
+2026-04-26 08:56:36,586 | aether.main | INFO | 🔱 Aether Flow System starting in [DRY] mode
+2026-04-26 08:56:38,468 | aether.exchange | INFO | ✅ Connected to Delta Exchange | 281 markets loaded
+2026-04-26 08:56:39,981 | aether.exchange | WARNING | ⚠️  Could not auto-resolve BTC symbol. Available: ['BTC/USDT:USDT-260501-84000-C', 'BTC/USDT:USDT-260501-69000-P', 'BTC/USDT:USDT-260501-68000-C', 'BTC/USDT:USDT-260508-77000-P', 'BTC/USDT:USDT-260428-76400-C', 'BTC/USDT:USDT-260501-79500-P', 'BTC/USDT:USDT-260501-73000-C', 'BTC/USDT:USDT-260427-77000-P', 'BTC/USDT:USDT-260501-71000-P', 'BTC/USDT:USDT-260428-76500-C']
+2026-04-26 08:56:39,983 | aether.main | INFO | DRY RUN mode - No real orders will be placed
+2026-04-26 08:56:41,482 | aether.exchange | INFO | 📊 Fetched 146 candles for BTC/USDT:USDT [1m]
+2026-04-26 08:56:42,692 | aether.main | INFO | Candle check done | Price=77494.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-26 08:56:42,695 | aether.exchange | INFO | ⏳ Waiting 17s for next 1m candle...
+2026-04-26 08:57:02,687 | aether.exchange | INFO | 📊 Fetched 146 candles for BTC/USDT:USDT [1m]
+2026-04-26 08:57:03,999 | aether.main | INFO | Candle check done | Price=77494.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-26 08:57:04,001 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 08:58:04,087 | aether.exchange | INFO | 📊 Fetched 146 candles for BTC/USDT:USDT [1m]
+2026-04-26 08:58:09,102 | aether.main | INFO | Candle check done | Price=77494.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-26 08:58:09,103 | aether.exchange | INFO | ⏳ Waiting 51s for next 1m candle...
+2026-04-26 08:59:02,582 | aether.exchange | INFO | 📊 Fetched 142 candles for BTC/USDT:USDT [1m]
+2026-04-26 08:59:05,247 | aether.main | INFO | Candle check done | Price=77494.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-26 08:59:05,249 | aether.exchange | INFO | ⏳ Waiting 55s for next 1m candle...
+2026-04-26 09:00:02,282 | aether.exchange | INFO | 📊 Fetched 142 candles for BTC/USDT:USDT [1m]
+2026-04-26 09:00:03,612 | aether.main | INFO | Candle check done | Price=77494.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-26 09:00:03,612 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 09:01:02,679 | aether.exchange | INFO | 📊 Fetched 296 candles for BTC/USDT:USDT [1m]
+2026-04-26 09:01:04,234 | aether.main | INFO | Candle check done | Price=77482.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=False | LONG=False | SHORT=False
+2026-04-26 09:01:04,235 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 09:02:02,738 | aether.exchange | INFO | 📊 Fetched 296 candles for BTC/USDT:USDT [1m]
+2026-04-26 09:02:04,444 | aether.main | INFO | Candle check done | Price=77482.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=False | LONG=False | SHORT=False
+2026-04-26 09:02:04,447 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 09:03:12,056 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777174382&start=1777156382&symbol=BTCUSDT
+2026-04-26 09:03:12,058 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777174382&start=1777156382&symbol=BTCUSDT
+2026-04-26 09:04:26,421 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777174466&start=1777156466&symbol=BTCUSDT
+2026-04-26 09:04:26,463 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777174466&start=1777156466&symbol=BTCUSDT
+2026-04-26 09:04:26,529 | aether.telegram | ERROR | Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8496261616:AAFkY3uY56zVMwZtw0RU3WEyBBGPA6pX8Ng/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-26 09:18:57,533 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777175337&start=1777157337&symbol=BTCUSDT
+2026-04-26 09:18:57,560 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777175337&start=1777157337&symbol=BTCUSDT
+2026-04-26 09:18:57,676 | aether.telegram | ERROR | Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8496261616:AAFkY3uY56zVMwZtw0RU3WEyBBGPA6pX8Ng/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-26 09:51:33,512 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777177293&start=1777159293&symbol=BTCUSDT
+2026-04-26 09:51:33,513 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777177293&start=1777159293&symbol=BTCUSDT
+2026-04-26 09:51:33,553 | aether.telegram | ERROR | Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8496261616:AAFkY3uY56zVMwZtw0RU3WEyBBGPA6pX8Ng/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-26 09:52:33,601 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777177353&start=1777159353&symbol=BTCUSDT
+2026-04-26 09:52:33,606 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777177353&start=1777159353&symbol=BTCUSDT
+2026-04-26 09:52:33,642 | aether.telegram | ERROR | Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8496261616:AAFkY3uY56zVMwZtw0RU3WEyBBGPA6pX8Ng/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-26 09:53:37,477 | aether.exchange | INFO | 📊 Fetched 243 candles for BTC/USDT:USDT [1m]
+2026-04-26 09:53:38,900 | aether.main | INFO | Candle check done | Price=77281.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 09:53:38,904 | aether.exchange | INFO | ⏳ Waiting 21s for next 1m candle...
+2026-04-26 09:54:02,625 | aether.exchange | INFO | 📊 Fetched 243 candles for BTC/USDT:USDT [1m]
+2026-04-26 09:54:04,311 | aether.main | INFO | Candle check done | Price=77281.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 09:54:04,313 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 09:55:02,660 | aether.exchange | INFO | 📊 Fetched 243 candles for BTC/USDT:USDT [1m]
+2026-04-26 09:55:04,337 | aether.main | INFO | Candle check done | Price=77281.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 09:55:04,339 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 09:56:12,019 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777177562&start=1777159562&symbol=BTCUSDT
+2026-04-26 09:56:12,020 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777177562&start=1777159562&symbol=BTCUSDT
+2026-04-26 09:57:13,886 | aether.exchange | INFO | 📊 Fetched 243 candles for BTC/USDT:USDT [1m]
+2026-04-26 09:57:15,327 | aether.main | INFO | Candle check done | Price=77281.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 09:57:16,354 | aether.exchange | INFO | ⏳ Waiting 44s for next 1m candle...
+2026-04-26 09:58:02,733 | aether.exchange | INFO | 📊 Fetched 243 candles for BTC/USDT:USDT [1m]
+2026-04-26 09:58:04,254 | aether.main | INFO | Candle check done | Price=77281.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 09:58:04,256 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 09:59:14,691 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777177754&start=1777159754&symbol=BTCUSDT
+2026-04-26 09:59:14,706 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777177754&start=1777159754&symbol=BTCUSDT
+2026-04-26 10:00:17,873 | aether.exchange | INFO | 📊 Fetched 243 candles for BTC/USDT:USDT [1m]
+2026-04-26 10:00:19,141 | aether.main | INFO | Candle check done | Price=77281.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 10:00:19,142 | aether.exchange | INFO | ⏳ Waiting 41s for next 1m candle...
+2026-04-26 10:01:03,206 | aether.exchange | INFO | 📊 Fetched 243 candles for BTC/USDT:USDT [1m]
+2026-04-26 10:01:04,903 | aether.main | INFO | Candle check done | Price=77281.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 10:01:04,904 | aether.exchange | INFO | ⏳ Waiting 55s for next 1m candle...
+2026-04-26 10:02:02,392 | aether.exchange | INFO | 📊 Fetched 243 candles for BTC/USDT:USDT [1m]
+2026-04-26 10:02:03,708 | aether.main | INFO | Candle check done | Price=77281.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 10:02:03,710 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-26 10:03:02,782 | aether.exchange | INFO | 📊 Fetched 243 candles for BTC/USDT:USDT [1m]
+2026-04-26 10:03:04,558 | aether.main | INFO | Candle check done | Price=77281.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-26 10:03:04,559 | aether.exchange | INFO | ⏳ Waiting 55s for next 1m candle...
+2026-04-26 10:18:14,796 | aether.exchange | INFO | 📊 Fetched 273 candles for BTC/USDT:USDT [1m]
+2026-04-26 10:18:17,611 | aether.main | INFO | Candle check done | Price=77481.00 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-26 10:18:17,612 | aether.exchange | INFO | ⏳ Waiting 42s for next 1m candle...
+2026-04-26 13:08:15,325 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777189095&start=1777171095&symbol=BTCUSDT
+2026-04-26 13:08:15,332 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777189095&start=1777171095&symbol=BTCUSDT
+2026-04-26 13:08:15,429 | aether.telegram | ERROR | Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8496261616:AAFkY3uY56zVMwZtw0RU3WEyBBGPA6pX8Ng/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-29 17:19:31,704 | aether.main | INFO | 🔱 Aether Flow System starting in [DRY] mode
+2026-04-29 17:19:33,391 | aether.exchange | INFO | ✅ Connected to Delta Exchange | 325 markets loaded
+2026-04-29 17:19:33,776 | aether.exchange | INFO | ✅ Symbol resolved: BTC/USDT:USDT
+2026-04-29 17:19:33,778 | aether.main | INFO | DRY RUN mode - No real orders will be placed
+2026-04-29 17:19:35,519 | aether.exchange | INFO | 📊 Fetched 297 candles for BTC/USDT:USDT [1m]
+2026-04-29 17:19:36,794 | aether.main | INFO | Candle check done | Price=77570.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-29 17:19:36,796 | aether.exchange | INFO | ⏳ Waiting 23s for next 1m candle...
+2026-04-29 17:20:02,775 | aether.exchange | INFO | 📊 Fetched 296 candles for BTC/USDT:USDT [1m]
+2026-04-29 17:20:04,083 | aether.main | INFO | Candle check done | Price=77570.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-29 17:20:04,085 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-29 17:21:02,667 | aether.exchange | INFO | 📊 Fetched 298 candles for BTC/USDT:USDT [1m]
+2026-04-29 17:21:04,435 | aether.main | INFO | Candle check done | Price=77596.00 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-29 17:21:04,439 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-29 17:22:02,685 | aether.exchange | INFO | 📊 Fetched 298 candles for BTC/USDT:USDT [1m]
+2026-04-29 17:22:04,023 | aether.main | INFO | Candle check done | Price=77510.50 | UT_buy=False | UT_sell=True | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-29 17:22:04,025 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-29 17:23:02,655 | aether.exchange | INFO | 📊 Fetched 292 candles for BTC/USDT:USDT [1m]
+2026-04-29 17:23:04,206 | aether.main | INFO | Candle check done | Price=77501.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-29 17:23:04,209 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-29 17:24:02,493 | aether.exchange | INFO | 📊 Fetched 292 candles for BTC/USDT:USDT [1m]
+2026-04-29 17:24:04,397 | aether.main | INFO | Candle check done | Price=77501.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-29 17:24:04,398 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-29 17:25:02,393 | aether.exchange | INFO | 📊 Fetched 292 candles for BTC/USDT:USDT [1m]
+2026-04-29 17:25:03,909 | aether.main | INFO | Candle check done | Price=77501.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-29 17:25:03,910 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-29 17:26:02,398 | aether.exchange | INFO | 📊 Fetched 292 candles for BTC/USDT:USDT [1m]
+2026-04-29 17:26:03,766 | aether.main | INFO | Candle check done | Price=77501.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-29 17:26:03,768 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-29 17:29:00,944 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777463940&start=1777445940&symbol=BTCUSDT
+2026-04-29 17:29:00,955 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777463940&start=1777445940&symbol=BTCUSDT
+2026-04-29 17:29:00,984 | aether.telegram | ERROR | Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8496261616:AAFkY3uY56zVMwZtw0RU3WEyBBGPA6pX8Ng/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-29 17:41:30,802 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777464690&start=1777446690&symbol=BTCUSDT
+2026-04-29 17:41:30,823 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777464690&start=1777446690&symbol=BTCUSDT
+2026-04-29 17:41:30,843 | aether.telegram | ERROR | Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8496261616:AAFkY3uY56zVMwZtw0RU3WEyBBGPA6pX8Ng/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-30 10:04:39,297 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777523679&start=1777505679&symbol=BTCUSDT
+2026-04-30 10:04:39,298 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777523679&start=1777505679&symbol=BTCUSDT
+2026-04-30 10:04:39,301 | aether.telegram | ERROR | Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8496261616:AAFkY3uY56zVMwZtw0RU3WEyBBGPA6pX8Ng/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-04-30 10:05:47,686 | aether.exchange | INFO | 📊 Fetched 270 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:05:48,937 | aether.main | INFO | Candle check done | Price=75639.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:05:50,373 | aether.exchange | INFO | ⏳ Waiting 10s for next 1m candle...
+2026-04-30 10:06:02,457 | aether.exchange | INFO | 📊 Fetched 270 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:06:03,679 | aether.main | INFO | Candle check done | Price=75639.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:06:03,679 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:07:02,375 | aether.exchange | INFO | 📊 Fetched 270 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:07:03,816 | aether.main | INFO | Candle check done | Price=75639.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:07:03,816 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:08:02,395 | aether.exchange | INFO | 📊 Fetched 270 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:08:03,509 | aether.main | INFO | Candle check done | Price=75639.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:08:03,511 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:09:02,425 | aether.exchange | INFO | 📊 Fetched 277 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:09:03,703 | aether.main | INFO | Candle check done | Price=75585.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:09:03,707 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:10:02,656 | aether.exchange | INFO | 📊 Fetched 277 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:10:03,850 | aether.main | INFO | Candle check done | Price=75585.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:10:03,851 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:11:02,663 | aether.exchange | INFO | 📊 Fetched 277 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:11:04,013 | aether.main | INFO | Candle check done | Price=75585.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:11:04,016 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:12:02,657 | aether.exchange | INFO | 📊 Fetched 277 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:12:03,945 | aether.main | INFO | Candle check done | Price=75585.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:12:03,948 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:13:02,400 | aether.exchange | INFO | 📊 Fetched 277 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:13:03,811 | aether.main | INFO | Candle check done | Price=75585.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:13:03,813 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:14:02,386 | aether.exchange | INFO | 📊 Fetched 277 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:14:03,806 | aether.main | INFO | Candle check done | Price=75585.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:14:03,809 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:15:02,262 | aether.exchange | INFO | 📊 Fetched 277 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:15:03,470 | aether.main | INFO | Candle check done | Price=75585.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:15:03,471 | aether.exchange | INFO | ⏳ Waiting 57s for next 1m candle...
+2026-04-30 10:16:02,383 | aether.exchange | INFO | 📊 Fetched 277 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:16:03,702 | aether.main | INFO | Candle check done | Price=75585.50 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:16:03,705 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:17:02,393 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:17:03,894 | aether.main | INFO | Candle check done | Price=75370.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:17:03,896 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:18:02,401 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:18:04,044 | aether.main | INFO | Candle check done | Price=75370.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:18:04,046 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:19:02,356 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:19:03,350 | aether.main | INFO | Candle check done | Price=75370.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:19:03,351 | aether.exchange | INFO | ⏳ Waiting 57s for next 1m candle...
+2026-04-30 10:20:02,674 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:20:04,065 | aether.main | INFO | Candle check done | Price=75370.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:20:04,065 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:21:02,616 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:21:03,803 | aether.main | INFO | Candle check done | Price=75370.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:21:03,805 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:22:02,668 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:22:04,015 | aether.main | INFO | Candle check done | Price=75370.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:22:04,019 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:23:02,379 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:23:03,579 | aether.main | INFO | Candle check done | Price=75370.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:23:03,581 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:24:02,437 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:24:03,724 | aether.main | INFO | Candle check done | Price=75370.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:24:03,726 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:25:02,370 | aether.exchange | INFO | 📊 Fetched 293 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:25:03,577 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:25:03,579 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:26:02,631 | aether.exchange | INFO | 📊 Fetched 293 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:26:04,637 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:26:04,638 | aether.exchange | INFO | ⏳ Waiting 55s for next 1m candle...
+2026-04-30 10:27:02,642 | aether.exchange | INFO | 📊 Fetched 293 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:27:04,036 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:27:04,039 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:28:02,369 | aether.exchange | INFO | 📊 Fetched 293 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:28:03,700 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:28:03,701 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:29:02,359 | aether.exchange | INFO | 📊 Fetched 293 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:29:03,586 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:29:03,586 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:30:02,395 | aether.exchange | INFO | 📊 Fetched 271 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:30:03,557 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:30:03,559 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:31:02,383 | aether.exchange | INFO | 📊 Fetched 271 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:31:03,717 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:31:03,720 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:32:02,413 | aether.exchange | INFO | 📊 Fetched 271 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:32:03,871 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:32:03,872 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:33:02,370 | aether.exchange | INFO | 📊 Fetched 271 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:33:03,605 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:33:03,605 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:34:02,892 | aether.exchange | INFO | 📊 Fetched 271 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:34:04,421 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:34:04,424 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:35:02,477 | aether.exchange | INFO | 📊 Fetched 271 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:35:04,065 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:35:04,067 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:36:02,408 | aether.exchange | INFO | 📊 Fetched 271 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:36:03,804 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:36:03,806 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:37:02,376 | aether.exchange | INFO | 📊 Fetched 271 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:37:03,575 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:37:03,577 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:38:02,397 | aether.exchange | INFO | 📊 Fetched 271 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:38:03,639 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:38:03,641 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:39:02,655 | aether.exchange | INFO | 📊 Fetched 271 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:39:03,878 | aether.main | INFO | Candle check done | Price=75466.00 | UT_buy=False | UT_sell=False | Hull_bull=False | Hull_bear=True | LONG=False | SHORT=False
+2026-04-30 10:39:03,879 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:40:02,664 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:40:03,781 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:40:03,782 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:41:02,606 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:41:03,849 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:41:03,851 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:42:02,380 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:42:03,647 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:42:03,652 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:43:02,371 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:43:03,679 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:43:03,682 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:44:02,377 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:44:03,641 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:44:03,643 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:45:02,350 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:45:03,609 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:45:03,612 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:46:02,404 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:46:03,771 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:46:03,775 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:47:02,393 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:47:03,529 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:47:03,529 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:48:02,295 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:48:03,615 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:48:03,617 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:49:02,388 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:49:03,816 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:49:03,819 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:50:03,562 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:50:04,942 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:50:04,944 | aether.exchange | INFO | ⏳ Waiting 55s for next 1m candle...
+2026-04-30 10:51:02,398 | aether.exchange | INFO | 📊 Fetched 286 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:51:03,640 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:51:03,642 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:52:02,389 | aether.exchange | INFO | 📊 Fetched 278 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:52:03,481 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:52:03,483 | aether.exchange | INFO | ⏳ Waiting 57s for next 1m candle...
+2026-04-30 10:53:02,643 | aether.exchange | INFO | 📊 Fetched 278 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:53:03,960 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:53:03,960 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:54:02,306 | aether.exchange | INFO | 📊 Fetched 278 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:54:03,672 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:54:03,674 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:55:02,400 | aether.exchange | INFO | 📊 Fetched 278 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:55:03,658 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:55:03,659 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 10:56:02,388 | aether.exchange | INFO | 📊 Fetched 278 candles for BTC/USDT:USDT [1m]
+2026-04-30 10:56:03,603 | aether.main | INFO | Candle check done | Price=75485.50 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 10:56:03,605 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 11:00:02,752 | aether.exchange | ERROR | Network error fetching OHLCV: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777527002&start=1777509002&symbol=BTCUSDT
+2026-04-30 11:00:02,795 | aether.main | ERROR | Loop error: delta GET https://api.delta.exchange/v2/history/candles?resolution=1m&end=1777527002&start=1777509002&symbol=BTCUSDT
+2026-04-30 11:01:04,872 | aether.exchange | INFO | 📊 Fetched 293 candles for BTC/USDT:USDT [1m]
+2026-04-30 11:01:06,296 | aether.main | INFO | Candle check done | Price=75578.00 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 11:01:06,300 | aether.exchange | INFO | ⏳ Waiting 54s for next 1m candle...
+2026-04-30 11:02:02,326 | aether.exchange | INFO | 📊 Fetched 290 candles for BTC/USDT:USDT [1m]
+2026-04-30 11:02:03,687 | aether.main | INFO | Candle check done | Price=75578.00 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 11:02:03,689 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 11:03:02,653 | aether.exchange | INFO | 📊 Fetched 290 candles for BTC/USDT:USDT [1m]
+2026-04-30 11:03:03,984 | aether.main | INFO | Candle check done | Price=75578.00 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 11:03:03,987 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 11:04:02,632 | aether.exchange | INFO | 📊 Fetched 290 candles for BTC/USDT:USDT [1m]
+2026-04-30 11:04:03,764 | aether.main | INFO | Candle check done | Price=75578.00 | UT_buy=False | UT_sell=False | Hull_bull=True | Hull_bear=False | LONG=False | SHORT=False
+2026-04-30 11:04:03,765 | aether.exchange | INFO | ⏳ Waiting 56s for next 1m candle...
+2026-04-30 11:04:13,518 | aether.main | INFO | Bot stopped by user
